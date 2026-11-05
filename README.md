@@ -30,6 +30,3 @@ Most of my work comes from university courses and personal practice: object-orie
 | [fifa-dataset-analysis](https://github.com/leandro-ortegon/fifa-dataset-analysis) | Comparison of FIFA 15–20 player datasets: players added and removed per year, nationalities and market value. | Python · pandas · matplotlib |
 | [parking-management-java](https://github.com/leandro-ortegon/parking-management-java) | Parking lot management desktop app organized in domain, infrastructure and UI layers. | Java · Swing |
 
-### GitHub activity
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandro-ortegon&layout=compact&hide_border=true&langs_count=6" alt="Most used languages" height="150" />
