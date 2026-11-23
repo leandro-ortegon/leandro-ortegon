@@ -19,14 +19,8 @@ Most of my work comes from university courses and personal practice: object-orie
 - Concurrent and distributed systems with Elixir/OTP
 - Data analysis
 
-### Featured projects
+### Featured project
 
 | Project | Description | Stack |
 |---|---|---|
-| [Proyecto_final_programacionIII](https://github.com/leandro-ortegon/Proyecto_final_programacionIII) | Pokémon-inspired multiplayer console system with battles, trades and booster packs, running on distributed Erlang nodes. Team project. | Elixir · OTP · ETS · ExUnit |
-| [PARCIAL-1](https://github.com/leandro-ortegon/PARCIAL-1) | Weekly payroll for coffee pickers: weighing validation, settlement and reports. Team exam. | Elixir |
-| [digital-wallet-javafx](https://github.com/leandro-ortegon/digital-wallet-javafx) | Desktop digital wallet with users, accounts, transfers and an admin view. | Java · JavaFX · Maven |
-| [ChatBot-inge-lean-proyecto](https://github.com/leandro-ortegon/ChatBot-inge-lean-proyecto) | Customer-service chatbot built during a 2025 hackathon, using a ports-and-adapters design. | Python · OpenAI API · Telegram |
-| [fifa-dataset-analysis](https://github.com/leandro-ortegon/fifa-dataset-analysis) | Comparison of FIFA 15–20 player datasets: players added and removed per year, nationalities and market value. | Python · pandas · matplotlib |
-| [parking-management-java](https://github.com/leandro-ortegon/parking-management-java) | Parking lot management desktop app organized in domain, infrastructure and UI layers. | Java · Swing |
-
+| [leandro-home-server](https://github.com/leandro-ortegon/leandro-home-server) | Home server and IoT hub on an Orange Pi PC Plus: Samba NAS, MQTT, Node-RED, Tailscale VPN, backups and ESP32 devices, with full documentation. | Armbian · MQTT · Node-RED · ESP32 |
